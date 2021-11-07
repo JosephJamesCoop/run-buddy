@@ -1,5 +1,5 @@
-# run-buddy
-
+# Run Buddy Inc.
+ 
 ## Purpose
 A website that offers fitness training services.
 
@@ -12,3 +12,5 @@ https://josephjamescoop.github.io/run-buddy/
 
 ## Contributors
 Made with ❤️ by Joseph Cooper
+
+### ©️2019 Run Buddy, Inc
