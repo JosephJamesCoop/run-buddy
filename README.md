@@ -12,3 +12,5 @@ https://josephjamescoop.github.io/run-buddy/
 
 ## Contributors
 Made with ❤️ by Joseph Cooper
+
+### ©️2019 Run Buddy, Inc
