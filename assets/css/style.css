@@ -38,7 +38,7 @@ section {
 }
 /* Hero Style Start (Changed from section to class "hero"*/
 .hero {
-    background-image: url("file:///Users/josephcooper/Desktop/projects/run-buddy/assets/images/hero-bg.jpeg");
+    background-image: url('../images/hero-bg.jpeg');
     height: 600px;
     background-size: cover;
     Background-position: center;
